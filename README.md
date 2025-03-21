@@ -23,11 +23,11 @@ This project is a simple clone of the Netflix homepage, built using only HTML an
 ## Installation
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/netflix-clone-html-css.git
+    git clone https://github.com/Grace-Lilly/NETFLIX-CLONE.git
     ```
 2. Open the project in Visual Studio Code:
     ```bash
-    code netflix-clone-html-css
+    code NETFLIX-CLONE
     ```
 3. Install the **Live Server** extension in Visual Studio Code, if you haven't already.
 
@@ -40,7 +40,3 @@ This project is a simple clone of the Netflix homepage, built using only HTML an
 ## About Me
 I am a freelance full-stack developer and have been working as a software developer for the past two years. I specialize in HTML, CSS, JavaScript, responsive web design, and .NET technologies, including C#, VB, ASP.NET Web Forms, Windows Forms, .NET Core, SQL Server, and APIs. You can reach out to me for collaboration or freelance work opportunities.
 
-**Location:** Kurla West, Mumbai - 400070  
-**Contact:** 9623191062  
-**Email:** zamazaidi95@gmail.com  
-**LinkedIn:** [Sayyed Zama Mahdi](https://www.linkedin.com/in/sayyed-zama-mahdi-0711a2219/)
